@@ -1,4 +1,4 @@
-package com.maskdetector.newarchitecture.components;
+package com.leonne.facefilter.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
