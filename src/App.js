@@ -1,11 +1,12 @@
 import React from 'react'
 import { NavigationContainer } from '@react-navigation/native';
-import TabLayout from './layout/TabLayout';
+import StackLayout from './layout/StackLayout';
+// import TabLayout from './layout/TabLayout';
 
 const App = (props) => { 
 
     return <NavigationContainer>
-        <TabLayout />
+        <StackLayout />
     </NavigationContainer>
 }
 
